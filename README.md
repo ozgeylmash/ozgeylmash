@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi 👋, I'm Özge
 
-<!--
-**ozgeylmash/ozgeylmash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a third-year Computer Engineering student with a strong passion for technology, specializing in Robotics coding and Frontend development. I'm eager to collaborate on new projects and expand my network while actively engaging in idea exchange.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Front-end Development & Mobile Development & Robotics coding.
+- 🌱 I’m currently learning React Native.
+- 📫 How to reach me: ozgeylmaz52@gmail.com
+
+
+- ⚡ Connect with me:
+  [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)]([profilinizin linki](https://github.com/ozgeylmash)https://github.com/ozgeylmash)
+
