@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ÖZGE</h1>
 <h3 align="center">Major In Computer Engineering</h3>
 
-- 🔭 I’m currently working on **Front-end Development & Robotics coding.**
+- 🔭 I’m currently working on **Full Stack Development**
 
 - 🌱 I’m currently learning **JavaScript & React**
 
