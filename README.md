@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Front-end Development & Robotics coding.**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript & React**
 
 - 📫 How to reach me **ozgeylmaz52@gmail.com**
 
